@@ -1,2 +1,3 @@
 # Hrmanagement
-gestione dipendenti 
+gestione dipendenti
+BE spring boot , java / FE Angular , type script
