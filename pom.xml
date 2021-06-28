@@ -8,7 +8,7 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>it.tecninf</groupId>
+	<groupId>it.marco</groupId>
 	<artifactId>angular-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>angular-spring-boot</name>
